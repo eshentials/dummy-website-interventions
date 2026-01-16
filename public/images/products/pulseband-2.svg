@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="600" viewBox="0 0 800 600">
+  <rect width="800" height="600" fill="#f8fafc"/>
+  <rect x="290" y="130" width="220" height="340" rx="60" fill="#1f2937"/>
+  <rect x="320" y="200" width="160" height="200" rx="30" fill="#0f172a"/>
+  <text x="400" y="320" fill="#e2e8f0" font-family="Arial, sans-serif" font-size="24" text-anchor="middle">
+    PulseBand 2
+  </text>
+  <text x="400" y="355" fill="#94a3b8" font-family="Arial, sans-serif" font-size="16" text-anchor="middle">
+    Smartwatch placeholder
+  </text>
+</svg>

@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="600" viewBox="0 0 800 600">
+  <rect width="800" height="600" fill="#f8fafc"/>
+  <rect x="120" y="150" width="560" height="260" rx="24" fill="#e2e8f0"/>
+  <rect x="160" y="180" width="480" height="200" rx="16" fill="#cbd5f5"/>
+  <rect x="220" y="420" width="360" height="24" rx="12" fill="#94a3b8"/>
+  <text x="400" y="315" fill="#1f2937" font-family="Arial, sans-serif" font-size="26" text-anchor="middle">
+    NebulaBook 14
+  </text>
+  <text x="400" y="350" fill="#475569" font-family="Arial, sans-serif" font-size="16" text-anchor="middle">
+    Laptop placeholder
+  </text>
+</svg>

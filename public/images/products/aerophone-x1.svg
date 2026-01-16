@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="600" viewBox="0 0 800 600">
+  <rect width="800" height="600" fill="#f8fafc"/>
+  <rect x="110" y="90" width="580" height="420" rx="48" fill="#1f2937"/>
+  <rect x="140" y="120" width="520" height="360" rx="40" fill="#111827"/>
+  <text x="400" y="320" fill="#e5e7eb" font-family="Arial, sans-serif" font-size="28" text-anchor="middle">
+    AeroPhone X1
+  </text>
+  <text x="400" y="360" fill="#9ca3af" font-family="Arial, sans-serif" font-size="16" text-anchor="middle">
+    Smartphone placeholder
+  </text>
+</svg>

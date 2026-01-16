@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="600" viewBox="0 0 800 600">
+  <rect width="800" height="600" fill="#f8fafc"/>
+  <rect x="260" y="210" width="280" height="180" rx="40" fill="#e2e8f0"/>
+  <circle cx="330" cy="300" r="26" fill="#94a3b8"/>
+  <circle cx="470" cy="300" r="26" fill="#94a3b8"/>
+  <text x="400" y="420" fill="#1f2937" font-family="Arial, sans-serif" font-size="24" text-anchor="middle">
+    HushPods Mini
+  </text>
+  <text x="400" y="452" fill="#475569" font-family="Arial, sans-serif" font-size="16" text-anchor="middle">
+    Earbuds placeholder
+  </text>
+</svg>

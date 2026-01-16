@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="600" viewBox="0 0 800 600">
+  <rect width="800" height="600" fill="#f8fafc"/>
+  <rect x="240" y="180" width="320" height="240" rx="40" fill="#111827"/>
+  <rect x="300" y="220" width="200" height="160" rx="28" fill="#1f2937"/>
+  <circle cx="330" cy="300" r="28" fill="#e5e7eb"/>
+  <circle cx="470" cy="300" r="28" fill="#e5e7eb"/>
+  <text x="400" y="450" fill="#1f2937" font-family="Arial, sans-serif" font-size="24" text-anchor="middle">
+    SilentWave Pro
+  </text>
+  <text x="400" y="482" fill="#475569" font-family="Arial, sans-serif" font-size="16" text-anchor="middle">
+    Earbuds placeholder
+  </text>
+</svg>
